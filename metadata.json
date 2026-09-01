@@ -1,0 +1,7 @@
+{
+  "name": "Quant Portfolio Dashboard",
+  "description": "Live-updating quantitative equity strategy dashboard for 10-stock portfolio with FMP live quotes and Gemini executive commentary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
